@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/erenmac/Desktop/ENGR497/Code/log/model.ckpt"
+all_model_checkpoint_paths: "/Users/erenmac/Desktop/ENGR497/Code/log/model.ckpt"
