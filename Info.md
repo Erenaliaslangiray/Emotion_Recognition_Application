@@ -1,6 +1,6 @@
 # Emotion Recognition Application, Using Voice Recognition Model Built with Neural Networks
 
-# A graduation project by: 
+A graduation project by: 
   Eren Ali Aslangiray
   Mehmet Enis İşgören
   Sümeyye Sena Eminmollaoğlu
