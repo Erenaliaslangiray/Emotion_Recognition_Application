@@ -6,7 +6,7 @@
   Eren Ali Aslangiray,
   Mehmet Enis İşgören,
   Sümeyye Sena Eminmollaoğlu,
-  Meryem Şahin,
+  Meryem Şahin
   
 ## Abstract:  
   This is our Graduation Project in İstanbul Şehir University CS department. Project deadline is in June 2019. The main goal of this project is, with using unique data collecting techniques we come up with an emotion recognition model that will take human speech as input and emotion status as an output. System will be also developed as a virtual assistant-like interaction with user so it will try to manipulate the user's current emotion stage while collecting the valuable human behaviour data in its back stage.
