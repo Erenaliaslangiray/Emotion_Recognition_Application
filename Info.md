@@ -26,4 +26,4 @@
   Decision trees are a decision support tool for regression or classification models. According to Jordan, Ghahramani and Saul in their research, we have to know probabilistic decision trees and Hidden Markov models to understand Hidden Markov decision trees. In probabilistic decision tree, decisions are modeled probabilistically and recursion spreading upward and downward in the tree. In Hidden Markov model, the key calculation fit in it, recursion extending forward or backward in the chain. Hidden Markov decision trees is a probabilistic decision tree (upward and downward) with Hidden Markov model (forward or backward).
 
 ## Project Pipeline
-![alt text]()
+![emo_rec_pipeline](https://user-images.githubusercontent.com/36948475/54489944-95777500-48c2-11e9-875b-01f1b6ce6492.png)
