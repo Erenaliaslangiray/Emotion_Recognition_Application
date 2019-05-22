@@ -1,3 +1,5 @@
+#Author: Eren Ali Aslangiray, Mehmet Enis İşgören
+
 import librosa
 import numpy as np
 from scipy.signal import resample

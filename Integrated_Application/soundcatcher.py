@@ -1,3 +1,5 @@
+#Author: Eren Ali Aslangiray, Mehmet Enis İşgören
+
 import pyaudio
 import math
 import struct
