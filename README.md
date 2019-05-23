@@ -9,7 +9,7 @@
   Sümeyye Sena Eminmollaoğlu.
   
 ## Abstract:  
-  This is our Graduation Project in İstanbul Şehir University CS department. 
+  This is our Graduation Project in Istanbul Şehir University CS department. 
   
   Acoustically expressed emotions can make the communication more efficient between humans and computers. We think that understanding emotions of humans is the next evolutionary step of interaction of one and other. In this project, our team used state-of-the-art models and techniques to analyze human voice signals to extract the features that computers need for understanding the emotions, as we humans do. This development allows all of the current available personal assistants to evolve and perform significantly better than their current version. The final aim of this project is letting computers to build empathy with humans to achieve the highest interaction quality.
 
