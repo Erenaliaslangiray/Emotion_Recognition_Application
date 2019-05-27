@@ -1,7 +1,5 @@
 # Emotion Recognition Application, Using Voice Recognition Model Built with Neural Networks
 
-#### (Project is still under developement process. Deadline: May 2019)
-
 #### Graduation project by: 
   Eren Ali Aslangiray,
   Mehmet Enis İşgören,
