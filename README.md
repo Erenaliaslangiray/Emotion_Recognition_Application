@@ -21,5 +21,5 @@
 ### Overall Accuracy of the app with custom user-made dataset is %93.
 
 ### PS1: Deep details can be found at Emotion_Recognition_ENGR498_Final_Report.pdf
-### PS2: Fasttext models are not uploaded here. If you need, you can mail me from erenaslangiray@std.sehir.edu.tr to get access to them.
+### PS2: Fasttext models are not uploaded here. If you need, you can mail me from erenali95@gmail.com to get access to them.
 ### Django file is the final version of the app for user-side.
