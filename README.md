@@ -19,6 +19,6 @@
 ![emo_rec_pipeline](https://user-images.githubusercontent.com/36948475/54489944-95777500-48c2-11e9-875b-01f1b6ce6492.png)
 
 
-### PS1: Deep details can be found at Emotion_Recognition_ENGR498_Final_Report.pdf
+### PS1: Details can be found at Emotion_Recognition_ENGR498_Final_Report.pdf
 ### PS2: Fasttext models are not uploaded here. If you need, you can mail me from erenali95@gmail.com to get access to them.
 ### Django file is the final version of the app for user-side.
